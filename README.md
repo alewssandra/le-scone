@@ -40,5 +40,5 @@ O projeto está sob a licença MIT. Para maiores detalhes, acesse <a href="https
 <a id="contato"></a>
 ## :coffee: Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Raissa%20Sanfelice-2E282A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alewssandra/)](https://www.linkedin.com/in/alewssandra/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Alessandra%20Lima-2E282A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alewssandra/)](https://www.linkedin.com/in/alewssandra/) 
 [![Gmail Badge](https://img.shields.io/badge/alewssandralima@gmail.com-2E282A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ra.sanf@gmail.com)](mailto:alewssandralima@gmail.com)
