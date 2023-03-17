@@ -7,10 +7,7 @@
 Esse projeto foi realizado durante o curso de CSS com SASS da Origamid, na qual foi criada uma landing page de um restaurante fictício.
 
 <a id="layout"></a>
-## :computer: Layout
-<p align="center">
-  <img width="720px" src="https://github.com/rasanf/lescone-origamid/blob/master/img/github/mockup-lescone.jpg">
-</p>
+
 
 <a id="tecnologias"></a>
 ## :zap: Tecnologias
