@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 ## :point_right: Como executar o projeto
 ```
 - Clone o repositório:
-$ git clone https://github.com/rasanf/le-scone.git
+$ git clone https://github.com/alewssandra/le-scone.git
 
 - Entre no diretório:
 $ cd le-scone
